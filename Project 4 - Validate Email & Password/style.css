@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",sans-serif;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.container{
+    position: relative;
+    background-color: #fff;
+    max-width: 370px;
+    width: 100%;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.container header{
+    font-size: 22pz;
+    font-weight: 600;
+    color: #333;
+}
+
+.container form{
+    margin-top: 30px;
+}
+
+form .input-field{
+    position: relative;
+    height: 55px;
+    width: 100%;
+}
+
+.input-field .show-hide{
+    position: absolute;
+    right: 5%;
+    top: 48%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    color: #919191;
+}
+
+form .field{
+    margin-bottom: 20px;
+}
+
+.input-field input{
+    height: 100%;
+    width: 100%;
+    border: none;
+    outline: none;
+    border: 1px solid #d1d1d1;
+    padding: 0px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.invalid input{
+    border-color: #d93025;
+}
+
+.create-password .error{
+    align-items: flex-start;
+}
+
+
+.field .error{
+    display: flex;
+    align-items: center;
+    margin-top: 6px;
+    color: red;
+    font-size: 13px;
+    display: none;
+}
+
+.invalid .error{
+    display: flex;
+}
+
+.error .error-icon{
+    margin-right: 6px;
+    font-size: 15px;
+}
+
+.button{
+    margin: 25px 0 6px;
+}
+
+.button input{
+    background-color: #2070f4;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.button input:hover{
+    background-color: #0e4bf1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
